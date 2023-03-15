@@ -821,7 +821,3 @@ Cree diferentes pruebas utilizando las clases de equivalencia necesarias para la
     
 2.  Subir en el espacio de moodle la URL del repositorio en GitHUB.
     
-
-### Grading summary
-
-<table><tbody><tr><th scope="row">Hidden from students</th><td>Yes</td></tr><tr><th scope="row">Participants</th><td>0</td></tr><tr><th scope="row">Submitted</th><td>0</td></tr><tr><th scope="row">Needs grading</th><td>0</td></tr><tr><th scope="row">Due date</th><td>Saturday, 26 March 2022, 10:00 AM</td></tr><tr><th scope="row">Time remaining</th><td>Assignment is due</td></tr><tr><th scope="row">Late submissions</th><td>Only allowed for participants who have been granted an extension</td></tr></tbody></table>
