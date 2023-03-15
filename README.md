@@ -1,6 +1,5 @@
-Laboratorio
 
-## Laboratorio
+## Integración de capas de presentación, lógica y persistencia
 
 ### Escuela Colombiana de Ingeniería
 
